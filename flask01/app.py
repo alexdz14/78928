@@ -17,7 +17,7 @@ def json():
 
 @app.route('/xml')
 def xml():
-    return '<?xml version="1.0"?><nombre>John</nombre>'
+    return '<nombre>John</nombre>'
 
 if __name__== '__main__':
     app.run(host='0.0.0.0', debug=True)
