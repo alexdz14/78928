@@ -10,3 +10,6 @@
 [submodule "Angular"]
 	path = Angular
 	url = https://github.com/alexdz14/Angular
+[submodule "react"]
+	path = react
+	url = https://github.com/xStivMan/react.git
