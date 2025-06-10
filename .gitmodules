@@ -16,3 +16,9 @@
 [submodule "Springboot"]
 	path = Springboot
 	url = https://github.com/alexdz14/Springboot
+[submodule "mosquitto"]
+	path = mosquitto
+	url = https://github.com/alexdz14/mosquitto
+[submodule "ruleta"]
+	path = ruleta
+	url = https://github.com/alexdz14/ruleta
